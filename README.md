@@ -9,7 +9,9 @@
 
 |      نام تمرین     |   کد سوال   | لینک سوال  |  لینک جواب |
 | :-------------: |:-------------:| :-----:| :-----: |
-| ساده‌تر            |   3403       |   [سوال](https://quera.org/problemset/3403/)     |    [جواب](https://gist.github.com/kianiam/cf63986bf6f1ea9a899abeb9403d6245)    |
+| ساده‌تر            |   3403       |   [سوال](https://quera.org/problemset/3403/)     |    [جواب](https://gist.github.com/kianiam/b2ce7ed12f0e9be0f84fee2dab9f598f)    |
+| یک ساعت            |   2886       |   [سوال](https://quera.org/problemset/2886/)     |    [جواب](https://gist.github.com/kianiam/f029c5ba6b614f74eadb877b9c82612e)    |
+
 
 
 
